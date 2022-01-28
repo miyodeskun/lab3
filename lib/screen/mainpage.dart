@@ -20,7 +20,6 @@ class _MainPageState extends State<MainPage> {
   double screenHeight = 0.0, screenWidth = 0.0;
   late List<Widget> tabchildren;
   int _currentIndex = 0;
-  String maintitle = "Shop";
 
   @override
   void initState() {
