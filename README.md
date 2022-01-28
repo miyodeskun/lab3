@@ -1,16 +1,14 @@
 # lab3
 
-A new Flutter project.
+A a part of Flutter project for Ara Optical Center application.
 
-## Getting Started
+## More about this project
 
-This project is a starting point for a Flutter application.
+This project is a lab assignment 3 given by Sir Hanis.
+Instructions:
+1.	Create a new project for the application and name the project as com.<yourmatricnumber>.lab3
+2.	The page should load and display the data list of your product table.
+3.	The list can be in card list view or any other list method suitable for the product.
+4.	Implement pagination for the project using dynamic or index pagination.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Develop with commitment by Amirul Luqman bin Abdul Hisham (273678)
